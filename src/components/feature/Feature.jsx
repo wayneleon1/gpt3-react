@@ -1,5 +1,5 @@
 import React from "react";
-import '../features/features.css'
+import '../feature/feature.css'
 const Feature = () => {
   return <div>Feature</div>;
 };
